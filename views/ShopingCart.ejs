@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<script crossorigin src="https://unpkg.com/react@16/umd/react.development.js"></script>
+	<script crossorigin src="https://unpkg.com/react-dom@16/umd/react-dom.development.js"></script>
+	<script src="https://unpkg.com/@babel/standalone/babel.min.js"></script>
+	<link rel="stylesheet" type="text/css" href="/ShoppingCart.css">
+	<style type="text/css">
+
+	</style>
+</head>
+<body>
+<div style="display:none;" id="user"><%= user %></div>
+<div class="topbar">
+	<div class="heading">
+		Welcome <%= user %> have a nice day :) 
+	</div>
+	<div class="logout">
+		<form action="logout" method="get">
+			<button class="incrementButton" id="logout">Log Out</button>
+		</form>
+	</div>
+</div>
+<div id="id"></div>
+<script type="text/babel" src="/shop.jsx"></script>
+</body>
+</html>

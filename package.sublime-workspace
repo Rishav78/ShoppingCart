@@ -1,0 +1,876 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"reso",
+				"responseText\t XMLHttpRequest"
+			],
+			[
+				"f",
+				"flatu"
+			],
+			[
+				"send",
+				"sendFile"
+			],
+			[
+				"new",
+				"newTask"
+			],
+			[
+				"ass",
+				"assinId"
+			],
+			[
+				"parse",
+				"parseInt\t( s: string, radix: int ): int Global"
+			],
+			[
+				"JSON",
+				"JSON_stringify\t( value: any, replacer?: any, space?: any ): string JSON"
+			],
+			[
+				"data",
+				"data"
+			],
+			[
+				"boo",
+				"Books"
+			],
+			[
+				"stri",
+				"String\t( value: any ): String String"
+			],
+			[
+				"ra",
+				"rand"
+			],
+			[
+				"cono",
+				"console_log"
+			],
+			[
+				"mat",
+				"Math"
+			],
+			[
+				"Pro",
+				"Product"
+			],
+			[
+				"getdata",
+				"getdata"
+			],
+			[
+				"use",
+				"Username"
+			],
+			[
+				"pro",
+				"ProductId"
+			],
+			[
+				"setsta",
+				"setState"
+			],
+			[
+				"st",
+				"stringify\t( value: any, replacer?: any, space?: any ): string JSON"
+			],
+			[
+				"POST",
+				"POST"
+			],
+			[
+				"user",
+				"user"
+			],
+			[
+				"val",
+				"value"
+			],
+			[
+				"cons",
+				"console_log"
+			],
+			[
+				"prod",
+				"ProductId"
+			],
+			[
+				"stat",
+				"status\t XMLHttpRequest"
+			],
+			[
+				"proc",
+				"Product"
+			],
+			[
+				"produ",
+				"Product"
+			],
+			[
+				"Prod",
+				"ProductName"
+			],
+			[
+				"Proc",
+				"Product"
+			],
+			[
+				"Prodt",
+				"ProductId"
+			],
+			[
+				"inse",
+				"Insert"
+			],
+			[
+				"Product",
+				"ProductName"
+			],
+			[
+				"coun",
+				"counter"
+			],
+			[
+				"Produ",
+				"ProductName"
+			],
+			[
+				"creata",
+				"createTable"
+			],
+			[
+				"cou",
+				"counter"
+			],
+			[
+				"re",
+				"result"
+			],
+			[
+				"sq",
+				"sql"
+			],
+			[
+				"si",
+				"signin"
+			],
+			[
+				"view",
+				"views"
+			],
+			[
+				"se",
+				"send"
+			],
+			[
+				"box",
+				"box-shadow\tproperty"
+			],
+			[
+				"ex",
+				"express"
+			],
+			[
+				"log",
+				"login"
+			],
+			[
+				"defa",
+				"defaultView\t: WindowProxy Document"
+			],
+			[
+				"sty",
+				"style\t Style CSS"
+			],
+			[
+				"co",
+				"container2"
+			],
+			[
+				"fle",
+				"flexDirection\t = 'column-reverse' Style CSS"
+			],
+			[
+				"style",
+				"styles"
+			],
+			[
+				"tran",
+				"transition\tproperty"
+			],
+			[
+				"ba",
+				"background-size\tproperty"
+			],
+			[
+				"tra",
+				"translateY()\ttransform"
+			],
+			[
+				"margin",
+				"margin-top\tproperty"
+			],
+			[
+				"margi",
+				"margin\tproperty"
+			],
+			[
+				"fo",
+				"forget"
+			],
+			[
+				"l",
+				"x-large\tfont-size"
+			],
+			[
+				"oncl",
+				"onclick\t: EventHandler Window"
+			],
+			[
+				"h",
+				"hidden\tvisibility"
+			],
+			[
+				"al",
+				"align-items\tproperty"
+			],
+			[
+				"valid",
+				"validPassword"
+			],
+			[
+				"isva",
+				"isValidPassword"
+			],
+			[
+				"write",
+				"writeFileSync"
+			],
+			[
+				"us",
+				"User"
+			],
+			[
+				"consol",
+				"console.log"
+			],
+			[
+				"enco",
+				"encodeURI\t( uri: string ): string Global"
+			],
+			[
+				"isex",
+				"isexist"
+			],
+			[
+				"inlin",
+				"inline-block\tdisplay"
+			],
+			[
+				"flex",
+				"flex-direction\tproperty"
+			],
+			[
+				"fl",
+				"flex\tproperty"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"tr",
+				"translateY()\ttransform"
+			],
+			[
+				"anima",
+				"animate"
+			],
+			[
+				"padd",
+				"padding-right\tproperty"
+			],
+			[
+				"sta",
+				"state"
+			],
+			[
+				"over",
+				"overflow\tproperty"
+			],
+			[
+				"pad",
+				"padding\tproperty"
+			],
+			[
+				"mari",
+				"margin-left\tproperty"
+			],
+			[
+				"tranfor",
+				"transform\tproperty"
+			],
+			[
+				"mar",
+				"margin\tproperty"
+			],
+			[
+				"bs",
+				"box-sizing\tproperty"
+			],
+			[
+				"iin",
+				"inline-block\tdisplay"
+			],
+			[
+				"task",
+				"tasks"
+			],
+			[
+				"assi",
+				"assignId"
+			],
+			[
+				"exte",
+				"extends"
+			],
+			[
+				"Ema",
+				"EmailId"
+			],
+			[
+				"te",
+				"test"
+			],
+			[
+				"req",
+				"require"
+			],
+			[
+				"even",
+				"eventEmitter"
+			],
+			[
+				"crea",
+				"createLi"
+			],
+			[
+				"create",
+				"createElement\t( localName: DOMString ): Element Document"
+			],
+			[
+				"todo",
+				"todoList"
+			],
+			[
+				"respo",
+				"responseText\t XMLHttpRequest"
+			],
+			[
+				"resp",
+				"responseText\t XMLHttpRequest"
+			],
+			[
+				"onstate",
+				"onreadystatechange\t XMLHttpRequest"
+			],
+			[
+				"magin",
+				"margin\tproperty"
+			],
+			[
+				"bor",
+				"border\tproperty"
+			],
+			[
+				"conta",
+				"container"
+			],
+			[
+				"fa-angle",
+				"fa-angle-left"
+			],
+			[
+				"bac",
+				"background-color\tproperty"
+			],
+			[
+				"app",
+				"appImg"
+			],
+			[
+				"notifi",
+				"notificationContent"
+			],
+			[
+				"not",
+				"notificationContent"
+			],
+			[
+				"doc",
+				"Doc"
+			],
+			[
+				"getele",
+				"getElementById\t( elementId: DOMString ): Element Document"
+			],
+			[
+				"quer",
+				"querySelector\t( selectors: DOMString ): Element Document"
+			],
+			[
+				"con",
+				"console_log"
+			],
+			[
+				"c",
+				"cursor\tproperty"
+			],
+			[
+				"trasfo",
+				"transform\tproperty"
+			],
+			[
+				"r",
+				"row5"
+			],
+			[
+				"TRA",
+				"transition\tproperty"
+			],
+			[
+				"inl",
+				"inline-block\tdisplay"
+			],
+			[
+				"bo",
+				"bottom\tproperty"
+			],
+			[
+				"dis",
+				"display\t Style CSS"
+			],
+			[
+				"visi",
+				"visible"
+			],
+			[
+				"settim",
+				"setTimeout\t( handler: any, timeout?: long, arguments_..: any ): long Window"
+			],
+			[
+				"scr",
+				"screen"
+			],
+			[
+				"textal",
+				"text-align\tproperty"
+			],
+			[
+				"ma",
+				"margin-top\tproperty"
+			],
+			[
+				"magi",
+				"margin\tproperty"
+			],
+			[
+				"wi",
+				"width\tproperty"
+			],
+			[
+				"tetx",
+				"textContent\t: DOMString Node"
+			],
+			[
+				"star",
+				"startCounter"
+			],
+			[
+				"pasre",
+				"parseInt\t( s: string, radix: int ): int Global"
+			],
+			[
+				"text",
+				"textContent\t: DOMString Node"
+			],
+			[
+				"show",
+				"ShowCount"
+			],
+			[
+				"dou",
+				"document\t: Document Window"
+			],
+			[
+				"sr",
+				"script\tTag"
+			],
+			[
+				"CO",
+				"Counter"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/E/Node Js/Shopping_Cart/views/shop.jsx",
+		"/E/Node Js/JWT/1.js",
+		"/E/Node Js/JWT/package.json",
+		"/E/Node Js/Shopping_Cart/views/signin.ejs",
+		"/E/Node Js/Shopping_Cart/Server.js",
+		"/E/Node Js/Shopping_Cart/views/ShopingCart.ejs",
+		"/E/Node Js/Session/session1.js",
+		"/E/Node Js/mongodb/Todo List/schema.js",
+		"/C/Users/Rishav/Desktop/bootstrap-3.3.7-dist/1.html",
+		"/C/Users/Rishav/Desktop/bootstrap-4.3.1-dist/css/bootstrap-grid.css",
+		"/C/Users/Rishav/Desktop/bootstrap-4.3.1-dist/css/bootstrap.css",
+		"/C/Users/Rishav/Desktop/faltu.html",
+		"/E/Node Js/Shopping_Cart/views/ShoppingCart.css",
+		"/C/Users/Rishav/Desktop/app.js",
+		"/E/Node Js/Session/view/index.html",
+		"/E/Node Js/mongodb/Todo List/server.js",
+		"/E/Node Js/mongodb/Todo List/views/index.jsx",
+		"/E/Node Js/mongodb/schema.js",
+		"/E/Node Js/mongodb/createSchema.js",
+		"/E/Node Js/mongodb/Todo List/views/index.html",
+		"/E/Node Js/mongodb/Todo List/server",
+		"/E/Node Js/mongodb/findAndFindOne.js",
+		"/C/Users/Rishav/Desktop/public/index.html",
+		"/C/Users/Rishav/Desktop/session/app.js",
+		"/E/Node Js/static middleware/static middleware.js",
+		"/E/Shopping_Cart/views/signin.css",
+		"/E/React/mySql/mysql1.js",
+		"/E/Shopping_Cart/views/shop.jsx",
+		"/E/Shopping_Cart/views/ShopingCart.ejs",
+		"/C/Users/Rishav/Desktop/session/public/index.html",
+		"/E/Shopping_Cart/views/ShoppingCart.css",
+		"/E/React/Shoping cart/Server.js",
+		"/E/React/Shoping cart/views/ShopingCart.ejs",
+		"/E/React/Shoping cart/views/shop.jsx",
+		"/E/React/Shoping cart/views/ShoppingCart.jsx",
+		"/E/React/Shoping cart/MySqlDatabase.js",
+		"/E/React/Shoping cart/server2.js",
+		"/E/React/mongodb/mongodb1.js",
+		"/E/React/Shoping cart/server.js",
+		"/E/React/Shoping cart/views/Shoping Cart.ejs",
+		"/E/React/Shoping cart/views/signin.ejs",
+		"/E/React/Shoping cart/views/Signup.ejs",
+		"/E/React/Shoping cart/views/signin.css",
+		"/E/React/Todo/todo.html",
+		"/E/React/Shoping cart/views/Shopping Cart.css",
+		"/E/React/Shoping cart/package.json",
+		"/E/React/Todo/server.js",
+		"/C/Users/Rishav/Desktop/project/App.js",
+		"/E/flexbox/f1.html",
+		"/C/Users/Rishav/Desktop/ShortForm.html",
+		"/E/UCA-Web development/Node js/express/serve.js",
+		"/E/UCA-Web development/Node js/express/hello.js",
+		"/E/React/Shoping cart/views/Shoping Cart.html",
+		"/E/React/Shoping cart/Signup.html",
+		"/E/React/Shoping cart/Shoping Cart.html",
+		"/E/React/Shoping cart/signin.html",
+		"/C/Users/Rishav/Desktop/login/loginForm.html",
+		"/C/Users/Rishav/Desktop/login/login.html",
+		"/C/Users/Rishav/Desktop/login/server.js",
+		"/C/Users/Rishav/Desktop/project/node_modules/react-native/Libraries/react-native/react-native-implementation.js",
+		"/C/Users/Rishav/Desktop/Ican.html",
+		"/E/React/Shoping cart/package-lock.json",
+		"/E/React/todo.html",
+		"/E/React/Shoping Cart.html",
+		"/C/Users/Rishav/Desktop/app/src/logo.svg",
+		"/E/React/demo.html",
+		"/C/Users/Rishav/Desktop/app/public/index.html",
+		"/C/Users/Rishav/Desktop/app/src/App.js",
+		"/C/Users/Rishav/Desktop/app/src/index.js",
+		"/C/Users/Rishav/sdf",
+		"/E/React/index.html",
+		"/E/React/ss.js",
+		"/E/React/my-app/src/index.js",
+		"/E/React/my-app/public/index.html",
+		"/E/React/my-app/src/components/counter.jsx",
+		"/E/React/my-app/src/App.js",
+		"/C/Users/Rishav/Desktop/node js/express/get.js",
+		"/C/Users/Rishav/Desktop/TODO/server.js",
+		"/C/Users/Rishav/Desktop/Task List Server/app.js",
+		"/C/Users/Rishav/Desktop/login/login.js",
+		"/C/Users/Rishav/Desktop/node js/EventEmiter.js",
+		"/C/Users/Rishav/Desktop/node js/realine.js",
+		"/E/DOM/Calculator.html",
+		"/C/Users/Rishav/Desktop/node js/express/html/second.html",
+		"/E/DOM/JavaScript/Calculator.js",
+		"/C/Users/Rishav/Desktop/node js/readdir.js",
+		"/C/Users/Rishav/Desktop/musicPlayer/player.html",
+		"/C/Users/Rishav/Desktop/node js/express/html/front.html",
+		"/C/Users/Rishav/Desktop/Music-Player/index.html",
+		"/C/Users/Rishav/Desktop/TODO/todo.html",
+		"/C/Users/Rishav/Desktop/node js/os.js",
+		"/C/Users/Rishav/Desktop/node js/url.js",
+		"/C/Users/Rishav/Desktop/TODO/todo.js",
+		"/C/Users/Rishav/Desktop/Task List Server/js/script.js",
+		"/E/AJAX/readFileData.html",
+		"/E/AJAX/ajaxRequest.js",
+		"/C/Users/Rishav/Desktop/MobilePhone/demo.html",
+		"/C/Users/Rishav/Desktop/Task List Server/index.html",
+		"/C/Users/Rishav/Desktop/AJAX.html",
+		"/C/Users/Rishav/Desktop/Task List Server/css/normalize.css",
+		"/E/AJAX/Ajax1.html",
+		"/C/Users/Rishav/Desktop/windiwSpace.html",
+		"/C/Users/Rishav/Desktop/Counter.html",
+		"/C/Users/Rishav/Desktop/MobilePhone/dropaable.html",
+		"/C/Users/Rishav/Desktop/MobilePhone/mobilejs.js",
+		"/C/Users/Rishav/Desktop/MobilePhone/calculator.css",
+		"/C/Users/Rishav/Desktop/Calculator/demo.html",
+		"/C/Users/Rishav/Desktop/Calculator/mobilejs.js",
+		"/C/Users/Rishav/Desktop/Calculator/calculator.css",
+		"/C/Users/Rishav/Desktop/Calculator/calculator.js",
+		"/C/Users/Rishav/Desktop/Calculator/Calculator.html",
+		"/E/Calculator-web-Application-/Calculator.html",
+		"/E/Calculator-web-Application-/calculator.css",
+		"/C/Users/Rishav/Desktop/option.html",
+		"/C/Users/Rishav/Desktop/demo.html",
+		"/C/Users/Rishav/Desktop/mobilePhone.html",
+		"/E/Calculator( Web Application)/calculator.css",
+		"/E/Calculator( Web Application)/Calculator.html",
+		"/C/Users/Rishav/Desktop/Calculator.html",
+		"/C/Users/Rishav/Desktop/Counter (2).html",
+		"/E/DOM/ToDoList.html",
+		"/C/Users/Rishav/Desktop/triangle.html",
+		"/C/Users/Rishav/Desktop/shoppingCard.html",
+		"/C/Users/Rishav/Desktop/Calculator-using-HTML-CSS-And-JS/index.html",
+		"/C/Users/Rishav/Desktop/Calculator-using-HTML-CSS-And-JS/logic.js",
+		"/C/Users/Rishav/Desktop/setTimeOut.html",
+		"/C/Users/Rishav/Desktop/blockingCode.html",
+		"/C/Users/Rishav/Desktop/blockCode2.html"
+	],
+	"find":
+	{
+		"height": 29.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"console",
+			"Email",
+			"spam",
+			"sp",
+			"s",
+			"spam",
+			"assignId",
+			"id",
+			"taskId",
+			"id",
+			"makeid",
+			"textcontent",
+			"console",
+			"POST",
+			"['user']",
+			"savedata",
+			"}`)",
+			"product.user",
+			"req",
+			"favicon.ico",
+			"favi",
+			"cons",
+			"database",
+			"(",
+			"span",
+			"I",
+			"spam",
+			"div",
+			"</spam>",
+			"<spam class=\"text\">",
+			"console",
+			";\n",
+			"Todo",
+			"div",
+			"task-list",
+			"text",
+			"navy",
+			"purple",
+			"white",
+			"background",
+			"doc",
+			"console",
+			"query",
+			"font",
+			"\"></",
+			";\n",
+			"tran",
+			"d",
+			"dot",
+			"height",
+			"overflow",
+			"min",
+			"Here",
+			"margin",
+			"white",
+			"clas",
+			"alert",
+			"ACTI",
+			"a",
+			"aut",
+			"auth_",
+			"none",
+			"\t\t\n",
+			"></"
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 29.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "package.sublime-project",
+	"replace":
+	{
+		"height": 54.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

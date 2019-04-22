@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/signin.css">
+</head>
+<body>
+	<div class="loginContainer">
+		<form action="verify" method="POST">
+			<div class="login">
+				<div class="lEmail">
+					<span class="heading">SIGN IN</span>
+					<input type="" name="Username" id="email" placeholder="USERNAME"> 
+					<span class="createNew">No Account? <a href="/Signup" style="color: skyblue;text-decoration: none;">Create new one</a></span>
+					<span class="forget">Forget Username</span>
+					<input type="button" class="button" id="Next" value="Next"> 
+				</div>
+				<div class="lpassword">
+					<span class="heading">Enter Password</span>
+					<input type="" name="password" id="password" placeholder="PASSWORD">
+					<div class="forget"><input type="checkbox" name="">Keep in sign in</div>
+					<span class="forget">Forget password</span>
+					<input type="button" value="Back" class="button back" class="back"><input type="submit" class="button" id="Sign" value="Sign in" style="float: right;"> 
+				</div>
+			</div>
+		</form>
+	</div>
+	<script type="text/javascript" src="/signin.js">
+	</script>
+</body>
+</html>

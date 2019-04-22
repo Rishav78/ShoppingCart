@@ -1,0 +1,52 @@
+.counter{
+	padding: 5px 10px 5px 10px;
+	text-align: center;
+	color: white;
+	min-width: 50px;
+	display: inline-block;
+	border-radius: 5px;
+}
+.warning{
+	background-color: rgb(255, 51, 0);
+}
+.primary{
+	background-color: rgb(0, 51, 204);
+}
+.incrementButton{
+	background-color: red;
+	padding: 10px 20px 10px 20px;
+	box-shadow: 1px 1px 4px gray;
+	border: none;
+	outline: none;
+	color: white;
+	font-weight: bolder;
+	margin: 10px 10px 5px 10px;
+}
+.incrementButton:active{
+	box-shadow: none;
+}
+.product{
+	border : 1px solid black;
+	margin: 5px;
+	padding: 5px;
+}
+.product:hover{
+	box-shadow: 1px 1px 10px gray;
+}
+#quantity{
+	display: inline;
+	margin-right: 5px;
+}
+.topbar{
+	padding: 20px;
+	background-color: red;
+	color: white;
+	width: 100%;
+	box-shadow: 1px 1px 10px red; 
+}
+.heading, .logout{
+	display: inline-block;
+}
+.heading{
+	width: 90%;
+}

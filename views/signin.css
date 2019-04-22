@@ -1,0 +1,58 @@
+body{
+	background-image: url('http://s1.1zoom.me/b5035/184/Assassin\'s_Creed_Men_Pistols_Edward_Kenway_Hood_517167_1200x1920.jpg');
+	background-size: cover;
+}
+.login{
+	padding: 20px;
+	background-color: rgba(0, 0, 0,0.3);
+	color: white;
+	width: 350px;
+	height: auto;
+	margin-top: 15%;
+	margin-left: 50%;
+	transform: translateY(-50%);
+	transform: translateX(-50%);
+	box-sizing: border-box;
+}
+#email,#password{
+	width: 100%;
+	background-color: rgba(255, 255, 255,0.1);
+	border: none;
+	display: block;
+	padding: 10px 10px 10px 10px;
+	font-size: 15px;
+	margin: 20px 0px 20px 0px;
+	box-sizing: border-box;
+}
+.lEmail, .lpassword{
+	width: 100%;
+	display: inline-block;
+	box-sizing: border-box;
+}
+.lpassword{
+	display: none;
+	overflow: hidden;
+} 
+.button{
+	border: none;
+	background-color: rgba(255, 255, 255,0.4);
+	padding: 10px 20px 10px 20px;
+	cursor: pointer;
+	transition: 0.4s;
+}
+.button:hover{
+	background-color: rgba(255, 255, 255,0.6);
+}
+.createNew, .forget{
+	display: block;
+	font-size: medium;
+	margin: 20px 0px 20px 0px;
+	color: white;
+	/*cursor: pointer;*/
+}
+.createNew:hover, .forget:hover{
+	font-size: large;
+}
+.heading{
+	font-size: xx-large;
+}
